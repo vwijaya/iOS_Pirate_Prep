@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "VWAwesomeClass.h"
 
 @interface VWViewController : UIViewController
+
+//CGPoint is a primitive: doesn't need strong and *
+@property (nonatomic) CGPoint currentPoint;
+
+@property (strong, nonatomic) IBOutlet UIButton *myButton;
+
+@property (strong, nonatomic) VWAwesomeClass *awesomeClass;
 
 @end

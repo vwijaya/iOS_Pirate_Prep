@@ -21,6 +21,7 @@
 		0974EB6B18DFF49900A48682 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0974EB4D18DFF49900A48682 /* UIKit.framework */; };
 		0974EB7318DFF49900A48682 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0974EB7118DFF49900A48682 /* InfoPlist.strings */; };
 		0974EB7518DFF49900A48682 /* Prepr_for_Pirate_AssignmentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0974EB7418DFF49900A48682 /* Prepr_for_Pirate_AssignmentTests.m */; };
+		0974EB8018E0105800A48682 /* VWAwesomeClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0974EB7F18E0105800A48682 /* VWAwesomeClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,25 +35,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0974EB4618DFF49900A48682 /* Prepr for Pirate Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prepr for Pirate Assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0974EB4618DFF49900A48682 /* Prep for Pirate Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prep for Pirate Assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0974EB4918DFF49900A48682 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0974EB4B18DFF49900A48682 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		0974EB4D18DFF49900A48682 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		0974EB5118DFF49900A48682 /* Prepr for Pirate Assignment-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Prepr for Pirate Assignment-Info.plist"; sourceTree = "<group>"; };
+		0974EB5118DFF49900A48682 /* Prep for Pirate Assignment-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Prep for Pirate Assignment-Info.plist"; sourceTree = "<group>"; };
 		0974EB5318DFF49900A48682 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0974EB5518DFF49900A48682 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0974EB5718DFF49900A48682 /* Prepr for Pirate Assignment-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Prepr for Pirate Assignment-Prefix.pch"; sourceTree = "<group>"; };
+		0974EB5718DFF49900A48682 /* Prep for Pirate Assignment-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Prep for Pirate Assignment-Prefix.pch"; sourceTree = "<group>"; };
 		0974EB5818DFF49900A48682 /* VWAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VWAppDelegate.h; sourceTree = "<group>"; };
 		0974EB5918DFF49900A48682 /* VWAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VWAppDelegate.m; sourceTree = "<group>"; };
 		0974EB5C18DFF49900A48682 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0974EB5E18DFF49900A48682 /* VWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VWViewController.h; sourceTree = "<group>"; };
 		0974EB5F18DFF49900A48682 /* VWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VWViewController.m; sourceTree = "<group>"; };
 		0974EB6118DFF49900A48682 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		0974EB6718DFF49900A48682 /* Prepr for Pirate AssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prepr for Pirate AssignmentTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0974EB6718DFF49900A48682 /* Prep for Pirate AssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prep for Pirate AssignmentTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0974EB6818DFF49900A48682 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		0974EB7018DFF49900A48682 /* Prepr for Pirate AssignmentTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Prepr for Pirate AssignmentTests-Info.plist"; sourceTree = "<group>"; };
+		0974EB7018DFF49900A48682 /* Prep for Pirate AssignmentTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Prep for Pirate AssignmentTests-Info.plist"; sourceTree = "<group>"; };
 		0974EB7218DFF49900A48682 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0974EB7418DFF49900A48682 /* Prepr_for_Pirate_AssignmentTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Prepr_for_Pirate_AssignmentTests.m; sourceTree = "<group>"; };
+		0974EB7E18E0105800A48682 /* VWAwesomeClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VWAwesomeClass.h; sourceTree = "<group>"; };
+		0974EB7F18E0105800A48682 /* VWAwesomeClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VWAwesomeClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,8 +95,8 @@
 		0974EB4718DFF49900A48682 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0974EB4618DFF49900A48682 /* Prepr for Pirate Assignment.app */,
-				0974EB6718DFF49900A48682 /* Prepr for Pirate AssignmentTests.xctest */,
+				0974EB4618DFF49900A48682 /* Prep for Pirate Assignment.app */,
+				0974EB6718DFF49900A48682 /* Prep for Pirate AssignmentTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -117,6 +120,8 @@
 				0974EB5B18DFF49900A48682 /* Main.storyboard */,
 				0974EB5E18DFF49900A48682 /* VWViewController.h */,
 				0974EB5F18DFF49900A48682 /* VWViewController.m */,
+				0974EB7E18E0105800A48682 /* VWAwesomeClass.h */,
+				0974EB7F18E0105800A48682 /* VWAwesomeClass.m */,
 				0974EB6118DFF49900A48682 /* Images.xcassets */,
 				0974EB5018DFF49900A48682 /* Supporting Files */,
 			);
@@ -126,10 +131,10 @@
 		0974EB5018DFF49900A48682 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0974EB5118DFF49900A48682 /* Prepr for Pirate Assignment-Info.plist */,
+				0974EB5118DFF49900A48682 /* Prep for Pirate Assignment-Info.plist */,
 				0974EB5218DFF49900A48682 /* InfoPlist.strings */,
 				0974EB5518DFF49900A48682 /* main.m */,
-				0974EB5718DFF49900A48682 /* Prepr for Pirate Assignment-Prefix.pch */,
+				0974EB5718DFF49900A48682 /* Prep for Pirate Assignment-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -146,7 +151,7 @@
 		0974EB6F18DFF49900A48682 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0974EB7018DFF49900A48682 /* Prepr for Pirate AssignmentTests-Info.plist */,
+				0974EB7018DFF49900A48682 /* Prep for Pirate AssignmentTests-Info.plist */,
 				0974EB7118DFF49900A48682 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -155,9 +160,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0974EB4518DFF49900A48682 /* Prepr for Pirate Assignment */ = {
+		0974EB4518DFF49900A48682 /* Prep for Pirate Assignment */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0974EB7818DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prepr for Pirate Assignment" */;
+			buildConfigurationList = 0974EB7818DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prep for Pirate Assignment" */;
 			buildPhases = (
 				0974EB4218DFF49900A48682 /* Sources */,
 				0974EB4318DFF49900A48682 /* Frameworks */,
@@ -167,14 +172,14 @@
 			);
 			dependencies = (
 			);
-			name = "Prepr for Pirate Assignment";
+			name = "Prep for Pirate Assignment";
 			productName = "Prepr for Pirate Assignment";
-			productReference = 0974EB4618DFF49900A48682 /* Prepr for Pirate Assignment.app */;
+			productReference = 0974EB4618DFF49900A48682 /* Prep for Pirate Assignment.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0974EB6618DFF49900A48682 /* Prepr for Pirate AssignmentTests */ = {
+		0974EB6618DFF49900A48682 /* Prep for Pirate AssignmentTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0974EB7B18DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prepr for Pirate AssignmentTests" */;
+			buildConfigurationList = 0974EB7B18DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prep for Pirate AssignmentTests" */;
 			buildPhases = (
 				0974EB6318DFF49900A48682 /* Sources */,
 				0974EB6418DFF49900A48682 /* Frameworks */,
@@ -185,9 +190,9 @@
 			dependencies = (
 				0974EB6D18DFF49900A48682 /* PBXTargetDependency */,
 			);
-			name = "Prepr for Pirate AssignmentTests";
+			name = "Prep for Pirate AssignmentTests";
 			productName = "Prepr for Pirate AssignmentTests";
-			productReference = 0974EB6718DFF49900A48682 /* Prepr for Pirate AssignmentTests.xctest */;
+			productReference = 0974EB6718DFF49900A48682 /* Prep for Pirate AssignmentTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -205,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0974EB4118DFF49900A48682 /* Build configuration list for PBXProject "Prepr for Pirate Assignment" */;
+			buildConfigurationList = 0974EB4118DFF49900A48682 /* Build configuration list for PBXProject "Prep for Pirate Assignment" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -218,8 +223,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0974EB4518DFF49900A48682 /* Prepr for Pirate Assignment */,
-				0974EB6618DFF49900A48682 /* Prepr for Pirate AssignmentTests */,
+				0974EB4518DFF49900A48682 /* Prep for Pirate Assignment */,
+				0974EB6618DFF49900A48682 /* Prep for Pirate AssignmentTests */,
 			);
 		};
 /* End PBXProject section */
@@ -253,6 +258,7 @@
 				0974EB6018DFF49900A48682 /* VWViewController.m in Sources */,
 				0974EB5618DFF49900A48682 /* main.m in Sources */,
 				0974EB5A18DFF49900A48682 /* VWAppDelegate.m in Sources */,
+				0974EB8018E0105800A48682 /* VWAwesomeClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,7 +275,7 @@
 /* Begin PBXTargetDependency section */
 		0974EB6D18DFF49900A48682 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0974EB4518DFF49900A48682 /* Prepr for Pirate Assignment */;
+			target = 0974EB4518DFF49900A48682 /* Prep for Pirate Assignment */;
 			targetProxy = 0974EB6C18DFF49900A48682 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -378,9 +384,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Prepr for Pirate Assignment/Prepr for Pirate Assignment-Prefix.pch";
-				INFOPLIST_FILE = "Prepr for Pirate Assignment/Prepr for Pirate Assignment-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Prepr for Pirate Assignment/Prep for Pirate Assignment-Prefix.pch";
+				INFOPLIST_FILE = "Prepr for Pirate Assignment/Prep for Pirate Assignment-Info.plist";
+				PRODUCT_NAME = "Prep for Pirate Assignment";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -391,9 +397,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Prepr for Pirate Assignment/Prepr for Pirate Assignment-Prefix.pch";
-				INFOPLIST_FILE = "Prepr for Pirate Assignment/Prepr for Pirate Assignment-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Prepr for Pirate Assignment/Prep for Pirate Assignment-Prefix.pch";
+				INFOPLIST_FILE = "Prepr for Pirate Assignment/Prep for Pirate Assignment-Info.plist";
+				PRODUCT_NAME = "Prep for Pirate Assignment";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -413,8 +419,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Prepr for Pirate AssignmentTests/Prepr for Pirate AssignmentTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Prepr for Pirate AssignmentTests/Prep for Pirate AssignmentTests-Info.plist";
+				PRODUCT_NAME = "Prep for Pirate AssignmentTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -431,8 +437,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Prepr for Pirate Assignment/Prepr for Pirate Assignment-Prefix.pch";
-				INFOPLIST_FILE = "Prepr for Pirate AssignmentTests/Prepr for Pirate AssignmentTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Prepr for Pirate AssignmentTests/Prep for Pirate AssignmentTests-Info.plist";
+				PRODUCT_NAME = "Prep for Pirate AssignmentTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -441,7 +447,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0974EB4118DFF49900A48682 /* Build configuration list for PBXProject "Prepr for Pirate Assignment" */ = {
+		0974EB4118DFF49900A48682 /* Build configuration list for PBXProject "Prep for Pirate Assignment" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0974EB7618DFF49900A48682 /* Debug */,
@@ -450,7 +456,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0974EB7818DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prepr for Pirate Assignment" */ = {
+		0974EB7818DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prep for Pirate Assignment" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0974EB7918DFF49900A48682 /* Debug */,
@@ -458,7 +464,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		0974EB7B18DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prepr for Pirate AssignmentTests" */ = {
+		0974EB7B18DFF49900A48682 /* Build configuration list for PBXNativeTarget "Prep for Pirate AssignmentTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0974EB7C18DFF49900A48682 /* Debug */,
